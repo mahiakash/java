@@ -1,0 +1,16 @@
+{
+"Buttons": [
+                {
+                    "Button 2": "UI"
+                },
+                {
+                    "Button 1": "INFO"
+                },
+                {
+                    "Button 3": "SYNC"
+                },
+				{
+                    "Button 34": "CLICK"
+                }
+			]
+}

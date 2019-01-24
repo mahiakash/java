@@ -1,0 +1,16 @@
+{
+    "views": [
+        {
+            "EyeSeperation": 3,
+            "ScreenHeight": 29,
+            "ScreenWidth": 47,
+            "StereoMode": "QUAD_BUFFER",
+            "status": false,
+            "viewtype": "Stereo"
+        },
+        {
+            "status": false,
+            "viewtype": "HMD"
+        }
+    ]
+}
